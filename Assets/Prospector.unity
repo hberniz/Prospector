@@ -287,7 +287,6 @@ GameObject:
   - component: {fileID: 1871739586}
   - component: {fileID: 1871739585}
   - component: {fileID: 1871739588}
-  - component: {fileID: 1871739587}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -454,30 +453,6 @@ MonoBehaviour:
   fsRun: {fileID: 0}
   GTGameOver: {fileID: 0}
   GTRoundResult: {fileID: 0}
---- !u!132 &1871739587
-GUIText:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1871739581}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Text: 
-  m_Anchor: 0
-  m_Alignment: 0
-  m_PixelOffset: {x: 0, y: 0}
-  m_LineSpacing: 1
-  m_TabSize: 4
-  m_Font: {fileID: 0}
-  m_Material: {fileID: 0}
-  m_FontSize: 0
-  m_FontStyle: 0
-  m_Color:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_PixelCorrect: 1
-  m_RichText: 1
 --- !u!114 &1871739588
 MonoBehaviour:
   m_ObjectHideFlags: 0

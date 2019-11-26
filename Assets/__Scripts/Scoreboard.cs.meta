@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 2e40df96bd5ad894ea7e37929b6fb1b4
+guid: a2cd6ecc32e87d943a0fe4a0fbbf012e
+timeCreated: 1450132982
+licenseType: Free
 MonoImporter:
-  externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - prefabFloatingScore: {fileID: 181506, guid: 7a1f81f760aa31f45938bd838cf27087,
-      type: 3}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
